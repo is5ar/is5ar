@@ -1,4 +1,5 @@
-### Hi there 👋
+Olá!! Seja bem vindo e fique a vontade
+Sou nova tanto aqui como na área. Qualquer ajuda será bem vinda ><
 
 <!--
 **is5ar/is5ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
